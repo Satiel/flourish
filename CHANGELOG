@@ -1,4 +1,11 @@
+## [0.0.2] - 2019-06-25
+### Added
+- Functionality to sift through directories and subdirectories
+- Functionality to count number of files in all directories
+- Functionality to save a list of all artists to txt document
+- Remove duplicate artist names from artist List txt document
+- Catch exceptions for characters that can't be encoded/decoded {fix later}
 ## [0.0.1] - 2019-06-24
-### Aded
+### Added
 - Git initialized folder to github repository
 - This CHANGELOG file
