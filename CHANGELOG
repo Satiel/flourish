@@ -1,3 +1,9 @@
+
+## [0.0.3] - 2019-06-28
+### Added
+- Scan function writes artist names of mp3s to txt
+- Sorted list of artist names
+- Function to read artist list and check artists against spotify database
 ## [0.0.2] - 2019-06-25
 ### Added
 - Functionality to sift through directories and subdirectories
